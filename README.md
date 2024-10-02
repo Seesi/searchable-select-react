@@ -1,3 +1,7 @@
+## Searchable Selected React Component
+### This repo was generated from StackBlitz, this is a simple resuable searchable multi-select checkbox dropdown using MUI's autocomplete checkbox implemented
+
+### 👇 - Came with the template
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
